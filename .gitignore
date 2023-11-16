@@ -12,7 +12,6 @@ atlassian-ide-plugin.xml
 temp/
 tmp/
 project/project/
-templates/
 
 # eclipse
 .classpath
