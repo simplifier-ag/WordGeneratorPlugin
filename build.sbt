@@ -20,7 +20,7 @@ lazy val wordGeneratorPlugin = (project in file("."))
       "org.scalatest"           %% "scalatest"                            % "3.0.4"  % "test" withSources() withJavadoc(),
       "org.mockito"             %% "mockito-scala"                        % "1.17.7" % Test,
       "fr.opensagres.xdocreport" % "fr.opensagres.poi.xwpf.converter.pdf" % "2.0.2"           withSources() withJavadoc(),
-      "io.github.simplifier-ag" %% "simplifier-plugin-base"               % "1.0.0"           withSources()
+      "io.github.simplifier-ag" %% "simplifier-plugin-base"               % "1.0.2"           withSources()
     )
   )
 
